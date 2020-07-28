@@ -1,0 +1,8 @@
+title: CLIJ2-ImageJ1
+logo: /images/clij2_logo.png
+description: GPU-accelerated image processing in ImageJ using CLIJ2
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-redirect-from
