@@ -7,12 +7,12 @@
 	<parent>
 		<groupId>net.haesleinhuepf</groupId>
 		<artifactId>clij-parent-pom</artifactId>
-		<version>2.2.0.12</version>
+		<version>2.2.0.14</version>
 	</parent>
 
 	<groupId>net.haesleinhuepf</groupId>
 	<artifactId>clij2-imagej_</artifactId>
-	<version>2.2.0.12</version>
+	<version>2.2.0.14</version>
 	<name>CLIJ2-ImageJ</name>
 	<description>CLIJ2-ImageJ bridge</description>
 
